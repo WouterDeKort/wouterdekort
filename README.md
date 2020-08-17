@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**WouterDeKort/wouterdekort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Wouter de Kort. Thank you for visiting my GitHub page! 
 
-Here are some ideas to get you started:
+I work as a lead architect and consultant where I help organizations stay on the cutting edge of software development. My focus is on .NET, Azure and DevOps. I love solving complex problems and helping other developers to grow. I authored the book DevOps on the Microsoft stack and a couple of other books and I'm a Microsoft MVP for DevOps on Azure. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can contact me at the links below and at the various conferences where I speak.
+
+## Get in touch
+
+* Twitter: https://twitter.com/wouterdekort
+* Personal site: https://wouterdekort.com/
+* LinkedIn: https://www.linkedin.com/in/wouter-de-kort
